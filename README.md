@@ -9,9 +9,8 @@ The goal which Sentiment analysis tries to gain is to analyze people’s opinion
 
 
 
-![bert](https://th.bing.com/th/id/OIP.rbX03Vv-dgVLnIMm8pdmkAHaD_?pid=ImgDet&rs=1)
-
 # bert-base-multilingual-uncased:
+![bert](https://th.bing.com/th/id/OIP.rbX03Vv-dgVLnIMm8pdmkAHaD_?pid=ImgDet&rs=1)
 
 This model finetuned for sentiment analysis on product reviews in six languages: English, Dutch, German, French, Spanish and Italian. It predicts the sentiment of the review as a number of stars (between 1 and 5).
 
